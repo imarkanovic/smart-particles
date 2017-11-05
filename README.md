@@ -8,7 +8,7 @@ An implementation of machine learning with genetic algorithm using Javascript
 Smart Particles is an implementation of machine learning with genetic algorithm written in Javascript, using the p5js framework.  
 The objective is for particles to learn how to reach their target by using genetic algo methods such as crossover and DNA mutation.
 
-**Due to p5js usage of WebGL, it is recommended to run this in Chrome** 
+**Due to p5js usage of WebGL, it is recommended to run this in Chrome**  
 **Firefox has known performance issues, especially when running large amount of particles**
 
 ## Usage 
