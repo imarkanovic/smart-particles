@@ -11,6 +11,8 @@ The objective is for particles to learn how to reach their target by using genet
 **Due to p5js usage of WebGL, it is recommended to run this in Chrome**  
 **Firefox has known performance issues, especially when running large amount of particles**
 
+**P.S - I hate designs, so the HTML is ugly, hardcoded. If someone wants to make it more pretty, please feel free to make a pull request**  
+
 ## Usage 
 You can choose the number of particles, along with their age.  
 DNA mutation chance is best to be left between 0.7% and 1.5%. The maximum is 10%, however, it is not recommended to set it that high as you wont get effective learning. 
